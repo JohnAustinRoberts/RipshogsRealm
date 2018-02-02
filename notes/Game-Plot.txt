@@ -1,0 +1,50 @@
+In the realm of Farnog, a dark ruler by the name of Black-Thaurn has been in power for a long time. Most of the populace is enslaved to the rich 1%, aside from with a few outlying free villages that are sulf sustaining. One day, a young shephard (which i named astreus, but this is the player's name), Astreus, is tending his flock of sheep with his father in one of these outlying villages. A ghosly white wolf appears from the nearby forest's treeline, and tries to attack the sheep, and Astreus chases it off back into the woods. This is the 6th time in as many days the wolf has shown up, and at his father's behest, Astreus follows the wolf's tracks back to it's den, finding a mossy cave entrance. "I was hoping you woud follow me." a voice says upon Astreus' approach. When he ventures inside, he finds an elderly man sitting at a fire pit, with a long beard the same color as the wolf's fur. The man introduces himself as Morgan De'vere, a court wizard from a time before Black-Thaurn was King, when the mighty and powerful, good King Ripshog ruled with love for all his subjects. Morgan De'vere would like to see the power of Black-Thaurn decline, and has searched for many years to find anything to help him defeat Black-Thaurn, and learned of a powerful artifact hidden away within a magic puzzlebox. The puzzlebox was crafted by Evil Wizards (Emmanon and Takushi) during Black-Thaurn's rise to power, and it is rumored that trapped within is not only the crown and sword of King Ripshog, both incredibly powerful artifacts from a time before knowing, but the life essence of the Beloved King may be hidden away within, as well. These foul wizards placed many spells upon the puzzlebox, hoping that none would be able to navigate their way through to release the Good King's artifacts. Then, the evil King Black-Thaurn could forever rule, unchallenged. Morgan explains that he would attempt the puzzlebox himself, but he has grown far to old and frail to attempt such a perilous adventure. Morgan  has watched Astreus for several weeks and believes him to be a strong, kind young man; who would possibly be capable of fulfilling the task of navigating through the puzzlebox to acquire the armor, sword, and crown of Ripshog, and to cast down the evil BlackThaurn.
+
+
+-Morgan De'vere's speech bubbles-
+        -intro convo-
+            I was hoping you would follow me. 
+            Come, sit and warm yourself by the fire.
+            I am Morgan De'vere, Court Wizard to the true monarch, Good King Ripshog, and a friend. 
+            And what may I call you?
+                (input player name)
+            Well, (player name), it is very nice to meet you. 
+            I see the look of confusion contorting your face, but worry not, I will explain all in time.
+            Might I assume you have not heard of King Ripshog?
+            It has been nearly 200 years since his rule, and the land has changed much since then.
+            King Ripshog was a king loved by all his subjects.
+            He ruled the realm with a kind hand, though meted out justice where it was deserved.
+            King Ripshog united the previous warring tribes and founded the Realm as we know it.
+            And for 200 years, he sat upon the Throne of Farnog, itself a wonder.
+            For the Throne of Farnog will keep any who sit upon it alive indefinitely.
+            But then, at the height of his empire, he was betrayed.
+            A treacherous plot had been divised by his Army's Commander, Soer Black-Thaurn.
+            Black-Thaurn had grown covetous of the Throne of Farnog, and the immortality it gave.
+            And so he plotted and planned with his underlings, a few Dark Wizards among them, on how to take the throne from King Ripshog.
+            One of his Wizards, the foul Emmanon, brought forth a plan to his master.
+            A plan to steal away the very essence of life from the king, and trap it in a magic box.
+            And they succeeded. The King was slain, his Court murdered, his soul trapped.
+            I barely escaped the castle with my life.
+            Black-Thaurn took the throne and covered the entire Realm in blood.
+            He killed any who did not submit to him, until the entire Realm bowed.
+            This has been the way of things for the last 200 years.
+            But then a strange thing began to happen, starting about 20 years ago.
+            A few small villages began to sprout up, and they mostly kept to themselves.
+            These villages were hidden away from the King and his slavery and taxes.
+            But King Black-Thaurn is beginning to find these villages and put them to the sword. 
+            You must stop him if you hope to save your own village.
+            But you are not strong enough as you are. 
+            You need the Armor of King Ripshog. You need his Sword, and his Crown.
+            But do not despair, for I know where they can be found.
+            All of King Ripshog's effects were hidden away within the same magic box containing the very essence of the King.
+            And after centuries of searching, I have found it.
+            And through great peril, acquired the box. And for years have tried to open it.
+            But the spells protecting it are too strong for me to break. 
+            Only one such as yourself stands a chance of navigating the puzzlebox.
+            For the true puzzle lies within.
+            Would you dare embark on such a journey?
+            
+    After this final question, the player will be sucked into the 'magic box' and be standing in the 'main hall'(see below section-'level design'). the player will begin the first stage with a shephard's crook as his weapon. stick in a few other weapons (a la castle crashers) in some of the chests.
+
+
+    At the end, once you have all of the armor, sword, and crown, the player can exit the puzzlebox, to find themselves now decked out in Morgan's cave. He is ecstatic to see the player. He espresses his unending thanks for returning his armor. At which point in time it is revealed that Morgan is actually King Ripshog. As it turns out, King Ripshog was actually a worse tyrant than Black-Thaurn, and was overthrown by Black-Thaurn only after Ripshog attempted to kill Black-Thaurn first. The player will then have to battle Morgan De'vere/King Ripshog who is a Wizard Boss Battle (if they lose, show cutscene of Ripshog retaking the throne). After defeating Ripshog, the player will have a choice to either head off to challenge King Black-Thaurn or go back to their village and end the game (boring ending. They decide they don't want power and bury the armor in the backyard. They are killed the following day by bandits who burn the whole place to the ground, but dont find the armor, and so it is forever lost.) If the player decides to go after King Black-Thaurn and wins, then game over, congrats, their the new immortal king. If they die to him, show custcene of him putting on Ripshog's Armor, and becoming impossibly powerful. 
