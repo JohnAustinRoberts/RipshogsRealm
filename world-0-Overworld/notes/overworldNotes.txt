@@ -1,0 +1,6 @@
+The general idea behind the over-world is that of a giant hamster wheel divided into 6 sections. The should also be a central circular section with a rotating entrance surrounding a fixed platform.
+On this fixed platform should be a door that the player first enters the 'puzzlebox' world through, and also where they respawn after death.
+Each of the 6 sections should have a mural depicting what type of world is hidden beneath the trapdoors of each section. 
+Once the player selects a world to enter, and goes through the trap door, the world will be set up in a very similar fashion.
+It should also function as a hamseter wheel with 6 sections and a middle door. the 6 sections should represent the first 4 platforming levels, and the boss level, as well as an exit door.
+the floating door in the middle of each world room will be the bonus door which is unlocked after collecting all of the bonus coins in a world.
