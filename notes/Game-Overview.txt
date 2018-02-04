@@ -1,0 +1,321 @@
+Wario 3 Remake- "Ripshog's Realm"
+
+    
+Theme/story- 
+    (original wario 3 plot) -One day, Wario's plane stalls and crashes while he is flying over the woods. Uninjured, he spends the rest of his afternoon wandering amongst the trees and underbrush until he stumbles upon a mysterious cave. Inside the cave, he discovers a magical music box and is suddenly sucked into it. There, a mysterious figure informs Wario that he had once ruled the world inside the music box, until an evil being sealed away his magical powers in five music boxes. In exchange for freeing it, the being promises to send Wario back to his own world and let him keep any treasure he finds. Enticed by the thought of returning to his own world with a cache of treasure, Wario departs on his quest, in search of the music boxes and the many treasures of this mysterious land.
+    After collecting all the music boxes Wario returns to the temple inhabited by the mysterious being. Once he is there, the music boxes play a medley together. The medley frees the being, who, as it turns out, is Rudy the Clown. It transpires that Rudy is in fact the villain and had been imprisoned, although not before turning the music box's inhabitants into monsters. After Wario defeats Rudy, he is met by the inhabitants of the music box, now restored to their former selves. They thank Wario and transport him back to his own world, along with the treasure that he has collected, as promised.
+
+    (bastardized version)- In the realm of Farnog, a dark ruler by the name of Black-Thaurn has been in power for a long time. Most of the populace is enslaved to the rich 1%, aside from with a few outlying free villages that are sulf sustaining. One day, a young shephard (which i named astreus, but this is the player's name), Astreus, is tending his flock of sheep with his father in one of these outlying villages. A ghosly white wolf appears from the nearby forest's treeline, and tries to attack the sheep, and Astreus chases it off back into the woods. This is the 6th time in as many days the wolf has shown up, and at his father's behest, Astreus follows the wolf's tracks back to it's den, finding a mossy cave entrance. "I was hoping you woud follow me." a voice says upon Astreus' approach. When he ventures inside, he finds an elderly man sitting at a fire pit, with a long beard the same color as the wolf's fur. The man introduces himself as Morgan De'vere, a court wizard from a time before Black-Thaurn was King, when the mighty and powerful, good King Ripshog ruled with love for all his subjects. Morgan De'vere would like to see the power of Black-Thaurn decline, and has searched for many years to find anything to help him defeat Black-Thaurn, and learned of a powerful artifact hidden away within a magic puzzlebox. The puzzlebox was crafted by Evil Wizards (Emmanon and Takushi) during Black-Thaurn's rise to power, and it is rumored that trapped within is not only the crown and sword of King Ripshog, both incredibly powerful artifacts from a time before knowing, but the life essence of the Beloved King may be hidden away within, as well. These foul wizards placed many spells upon the puzzlebox, hoping that none would be able to navigate their way through to release the Good King's artifacts. Then, the evil King Black-Thaurn could forever rule, unchallenged. Morgan explains that he would attempt the puzzlebox himself, but he has grown far to old and frail to attempt such a perilous adventure. Morgan  has watched Astreus for several weeks and believes him to be a strong, kind young man; who would possibly be capable of fulfilling the task of navigating through the puzzlebox to acquire the armor, sword, and crown of Ripshog, and to cast down the evil BlackThaurn.
+
+
+        -Morgan De'vere's speech bubbles-
+        -intro convo-
+            I was hoping you would follow me. 
+            Come, sit and warm yourself by the fire.
+            I am Morgan De'vere, Court Wizard to the true monarch, Good King Ripshog, and a friend. 
+            And what may I call you?
+                (input player name)
+            Well, (player name), it is very nice to meet you. 
+            I see the look of confusion contorting your face, but worry not, I will explain all in time.
+            Might I assume you have not heard of King Ripshog?
+            It has been nearly 200 years since his rule, and the land has changed much since then.
+            King Ripshog was a king loved by all his subjects.
+            He ruled the realm with a kind hand, though meted out justice where it was deserved.
+            King Ripshog united the previous warring tribes and founded the Realm as we know it.
+            And for 200 years, he sat upon the Throne of Farnog, itself a wonder.
+            For the Throne of Farnog will keep any who sit upon it alive indefinitely.
+            But then, at the height of his empire, he was betrayed.
+            A treacherous plot had been divised by his Army's Commander, Soer Black-Thaurn.
+            Black-Thaurn had grown covetous of the Throne of Farnog, and the immortality it gave.
+            And so he plotted and planned with his underlings, a few Dark Wizards among them, on how to take the throne from King Ripshog.
+            One of his Wizards, the foul Emmanon, brought forth a plan to his master.
+            A plan to steal away the very essence of life from the king, and trap it in a magic box.
+            And they succeeded. The King was slain, his Court murdered, his soul trapped.
+            I barely escaped the castle with my life.
+            Black-Thaurn took the throne and covered the entire Realm in blood.
+            He killed any who did not submit to him, until the entire Realm bowed.
+            This has been the way of things for the last 200 years.
+            But then a strange thing began to happen, starting about 20 years ago.
+            A few small villages began to sprout up, and they mostly kept to themselves.
+            These villages were hidden away from the King and his slavery and taxes.
+            But King Black-Thaurn is beginning to find these villages and put them to the sword. 
+            You must stop him if you hope to save your own village.
+            But you are not strong enough as you are. 
+            You need the Armor of King Ripshog. You need his Sword, and his Crown.
+            But do not despair, for I know where they can be found.
+            All of King Ripshog's effects were hidden away within the same magic box containing the very essence of the King.
+            And after centuries of searching, I have found it.
+            And through great peril, acquired the box. And for years have tried to open it.
+            But the spells protecting it are too strong for me to break. 
+            Only one such as yourself stands a chance of navigating the puzzlebox.
+            For the true puzzle lies within.
+            Would you dare embark on such a journey?
+            
+    After this final question, the player will be sucked into the 'magic box' and be standing in the 'main hall'(see below section-'level design'). the player will begin the first stage with a shephard's crook as his weapon. stick in a few other weapons (a la castle crashers) in some of the chests.
+
+
+    At the end, once you have all of the armor, sword, and crown, the player can exit the puzzlebox, to find themselves now decked out in Morgan's cave. He is ecstatic to see the player. He espresses his unending thanks for returning his armor. At which point in time it is revealed that Morgan is actually King Ripshog. As it turns out, King Ripshog was actually a worse tyrant than Black-Thaurn, and was overthrown by Black-Thaurn only after Ripshog attempted to kill Black-Thaurn first. The player will then have to battle Morgan De'vere/King Ripshog who is a Wizard Boss Battle (if they lose, show cutscene of Ripshog retaking the throne). After defeating Ripshog, the player will have a choice to either head off to challenge King Black-Thaurn or go back to their village and end the game (boring ending. They decide they don't want power and bury the armor in the backyard. They are killed the following day by bandits who burn the whole place to the ground, but dont find the armor, and so it is forever lost.) If the player decides to go after King Black-Thaurn and wins, then game over, congrats, their the new immortal king. If they die to him, show custcene of him putting on Ripshog's Armor, and becoming impossibly powerful. 
+
+    level design - 
+        -2d multi-world adventure. 
+            -Each world has 5 levels and a themed bonus level. Each level (excluding bonus levels) contain 4 chests, some contain keys to unlock new map areas, others contain powerups/items.
+            -There will be a puzzlebox overworld, hereafter referred to as 'Main Hall' that is a circular room with 7 doors, labeled 1-6 and E. each number corresponds to a world, and the E door is the final exit door. In the middle of the room sits a blacksmith named, Torbac. He will repair the player's broken items(see Durability), for a price. 
+                -Doors 2-6 and E will have big chains and padlocks (thinking zelda dungeons)
+                -Door 1 will be unlocked from the start, as a clear indication of where the player should be heading. 
+                -Inside each numbered door will be a corresponding 'World Room' That contains 7 Doors.
+                    -Doors labeled 1-4 will be levels
+                    -Door 5 will be the boss door
+                    -Door 6 will be the Bonus Level Door
+                    -Door 7 will lead you back to the 'Main Hall'
+            
+                Starting Equip:
+                    Head- 
+                    Face- Shephard's Headband (Durability: 5)
+                    Shoulders-
+                        Right-
+                        Left-
+                    Chest- Shephard's Cloak (Durability: 5)
+                    Back-
+                    Belt-
+                    Pants-
+                    Shins- 
+                    Feet- Shephard's Shoes (Durability: 5)
+                    Right Hand- Shephard's Crook (Damage: 1) (Durability: 5)
+                    Left Hand- Sling (Damage: 1) (Durability: 5)
+
+        Overall Number of Worlds - 6
+            -world 1 - forest (thinking about the forest world in super mario world) - requires no key 
+              \/  -1-1 - A walk through meadows (intro level and first level in forest) - requires no key 
+                    This level should start in a meadow and lead towards the entrance of the forest
+                    chests: 
+                    1) Muddy Leather Boots (allows jump)
+                    2) Rusty Buttplate (allows ground pound)
+                    3) Key 1-2
+                    4) Key 1-Boss (only accesible after swim/windstaff)
+               \/ -1-2 - Into the underbrush - no trees yet, but lots of bushes and small twigs  
+                    chests: 
+                    1) Rusty Iron Dagger (Damage: 2) Durability: 20
+                    2) Old Sling (allows ranged attack) Durability: 5
+                    3) Key to 2-1
+                    4) Rusty Pan (allows Block) Durability: 20
+               \/ -1-3 - Tree-Top Tangle
+                    chests: 
+                    1) Rusty Grappling Hook (allows Hook-Swing) Durability: 20
+                    2) Key 3-3 (only accessible with ground pound) 
+                    3) Machete (Damage: 5) Durability: 20
+                    4) Snorkel (allows swimming w/ limited dive time)
+               \/ -1-4 - Forest Depths 
+                    chests: 
+                    1) Mimic (trapped chest)
+                    2) Spring-Loaded Leather Boots (hold for extended jump) Durability: 10
+                    3) Key 5-1
+                    4) Wooden Shield (allows block; destroyed by fire) Durabilty: 20
+              \/  -1-Boss 
+                    Drops: Boss Soul, Ripshog's Boots (allows jump) Durability: Infinite
+
+                -1-Bonus - Vine Swinging Bonus Level - contains 1 chest with a resurrection phial (this phial is empty and can be filled with the souls of defeated enemies. It should take about 100 enemies killed to fill the phial. Once full, it can be used upon player death to bring them back to life with 1 heart at the spot where they died.)
+                
+                -World 1 Enemies-
+                    -owls (swoop down attacks in tree-top/forest depths)
+                    -bees (in the first two levels)
+                    -wolves (in the forest depths)
+                    -bears (in forest depths)
+                    -mushrooms (in all levels)
+                    -
+
+            -world 2 - desert (an homage to all mario games world 2 being a desert)
+             \/   -2-1 Shifting Sands
+                    chests: 
+                    1) 
+                    2) Key 1-3; (accessable after headbutt)
+                    3) 
+                    4) 
+               \/ -2-2 Camel Race (think donkey kong mine cart levels)
+                    chests: 
+                    1) 
+                    2) Key 6-3
+                    3) 
+                    4)
+               \/ -2-3 Pyramid Exterior
+                    chests: 
+                    1) 
+                    2) Key 6-2
+                    3) 
+                    4) Armored Pants (double jump)
+               \/ -2-4 Pyramid Interior
+                    chests: 
+                    1) 
+                    2) Key 2-Boss
+                    3) Key 4-1 
+                    4)
+               \/ -2-Boss 
+                   Drops: Ripshog's Buttplate
+                -2-Bonus
+                -World 2 Enemies-
+                    -scorpions
+                    -fireballs
+                    -
+
+
+            -world 3 - cityscape (Anor Londo)
+             \/   -3-1 Lower Levels (slums)
+                    chests: 
+                    1) 
+                    2) Key 5-2
+                    3) 
+                    4)
+            \/    -3-2 Middle City (middle class)
+                    chests: 
+                    1) 
+                    2) 
+                    3) 
+                    4) Key 4-4
+             \/   -3-3 Uptown (nice estates)
+                    chests: 
+                    1) Key 3-1
+                    2) Key 3-Boss
+                    3) 
+                    4) Ripshog's Helmet
+             \/   -3-4 Castle Gate
+                    chests: 
+                    1) Key 1-4
+                    2) 
+                    3) 
+                    4)
+              \/  -3-Boss: Ornstein & Smough (Smowstein)'s Castle
+                    Drops: 
+                -3-Bonus 
+
+
+            -world 4 - cavern (typical castlevania dungeon, but set in cave)
+             \/   -4-1
+                    chests: 
+                    1) 
+                    2) Key 4-Boss
+                    3) Key 5-3
+                    4)
+              \/  -4-2
+                    chests: 
+                    1) 
+                    2) 
+                    3) Key 5-4
+                    4)
+              \/  -4-3
+                    chests: 
+                    1) 
+                    2) Key 6-4
+                    3) Left Gauntlet (grants fireball, give this before ice world)
+                    4) 
+              \/  -4-4
+                    chests: 
+                    1) 
+                    2) Key 2-4
+                    3) 
+                    4)
+              \/  -4-Boss
+                 Boss Loot:
+                -4-Bonus
+
+
+            -world 5 - ice world (polar ice cap)
+              \/  -5-1
+                    chests: 
+                    1) 
+                    2) Key 2-3
+                    3) 
+                    4)
+              \/  -5-2
+                    chests: 
+                    1) Key 6-1
+                    2) 
+                    3) 
+                    4)
+             \/   -5-3
+                    chests: 
+                    1) 
+                    2) 
+                    3) Key 4-3
+                    4)
+              \/  -5-4
+                    chests: 
+                    1) 
+                    2) Key 5-Boss
+                    3) Key 2-2
+                    4)
+              \/  -5-Boss
+                  Boss Loot: Ripshog's Sword
+                -5-Bonus
+
+
+            -world 6 - Hellscape (fire levels)
+              \/  -6-1
+                    chests: 
+                    1) 
+                    2) Key 4-2
+                    3) 
+                    4)
+              \/  -6-2
+                    chests: 
+                    1) 
+                    2) Key 3-2
+                    3) Key 6-Boss
+                    4)
+              \/  -6-3
+                    chests: 
+                    1) 
+                    2) Key 3-4
+                    3) 
+                    4)
+              \/  -6-4
+                    chests: 
+                    1) 
+                    2) Exit Key??
+                    3) 
+                    4)
+               \/ -6-Boss
+                Boss Loot: Crown of Ripshog
+                -6-Bonus
+
+-All Ripshog Items to collected
+                -Armor
+                    -Helmet
+                       - Helmet (allows head to break blocks above you)
+                    -Shoulder Pauldrons
+                       - Shoulder Charge
+                    -Gauntlets
+                       - right (charge up beam attack)
+                       - left (fireball) (can be used on oil barrels to blow up secret walls/melt ice in ice world)
+                    -Breastplate
+                       - front (adds 1 heart to life meter)
+                       - back (adds 1 heart to life meter)
+                    -Armored pants
+                       - belt & Buttplate (ground pound) (used to crush enemies and allow access to secrets below stage)
+                       - Scaled Armor Pants (double jump) (the scales open and close, flapping like a birds wings to generate a second jump. Can only be used once before landing to reset the scales.)
+                    -Greaves
+                       - Boots (jump)
+                       - Spring-loaded Shin-guards (wall jump)
+                -Sword (charge up upgraded to more powerful AoE attack)
+                -Shield (allows you to block)
+                -Crown (doubles damage output)
+            -Abilities-
+                headbutt -helmet (Allows you to break blocks with your head by jumping under them. Also stuns enemies from below.)
+                shoulder charge - pauldrons
+                charge up beam attack - right gauntlet
+                fireball - left gauntlet
+                ground pound - Buttplate
+                jump - boots
+                double jump - armor pants
+                wall jump - shin guards
+                circle of judgement - double damage - crown
+                block - Shield/Pan 
+                swim - snorkel 
+                Swing - hook on a rope.
+
+Durability-  (I don't know if i like this mechanic or not)
+    Each equippable item will have a set 'Durability'.
+    When the player dies, each item in their inventory loses 1 durability. 
+    When an item reaches 0 durability, it becomes 'broken'.
+    The item will no longer be equippable, and must be repaired by the blacksmith in the 'main hall' to lose the 'broken' condition.
+    When an item is 'broken' it will not allow the player to use any move associated with that item. 
+    For example:
+            'Wooden Shield' is an item that once equipped, allows the user to block. The 'Wooden Shield' has a durability rating of 20. This means that after 20 deaths, the player would not be able to equip the 'Wooden Shield' and thereby would not be able to block until they had visited the blacksmith and paid him to repair the 'Wooden Shield'. ß
