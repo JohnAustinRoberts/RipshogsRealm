@@ -1,0 +1,5 @@
+Player Death-
+    Players should start the game with 2 hearts, and should gain up to a max of 4 hearts once they have collected the front and rear torso armor.
+    When a player loses both hearts in a world, they will be met by death, who will tell them to be more careful, and give them a new body.
+    Each time the player meets Death, Death will be less happy to see them. This way, a amazing player will know that death is a part of the game, a normal player will be a frequent acquantance with death, and a bad player will have a very close relationship.
+    
