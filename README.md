@@ -2,7 +2,7 @@
 
 This project's goal is to create a 2-d side-scrolling action adventure game. It will be structured in a puzzle-like fashion in a similar vein to Wario Land 3. 
 
-Expected Level Order - (the level listed will contain the key for the next level on the list)
+Expected Level Order - (the level listed will contain the key for the next level on the list)-  
 1-1  
 1-2  
 2-1  
@@ -26,4 +26,5 @@ Expected Level Order - (the level listed will contain the key for the next level
 4-1  
 5-3  
 4-3  
-6-4
+6-4  
+
